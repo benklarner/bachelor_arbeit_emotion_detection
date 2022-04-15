@@ -1,0 +1,17 @@
+{
+    "name": "com.facerecognition.fer",
+    "version": "1.0.0",
+    "displayName": "FER",
+    "description": "",
+    "unity" : "2019.2",
+    "dependencies":{
+        
+    },
+    "keywords":["tools", "extensions", "fer"],
+    "author":{
+        "name":"ben",
+        "email": "benklarner@gmx.de",
+        "url": ""
+    }
+
+}

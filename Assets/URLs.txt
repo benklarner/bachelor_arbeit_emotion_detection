@@ -1,0 +1,9 @@
+Aus Lime Survey heraus den code für den code in die geschweiften klammern setzten
+http://80.155.190.86/VRAgentMF/GetCodeEndUrl.php?code={code}&mode=0
+
+Zum Testen
+http://80.155.190.86/VRAgentMF/GetCodeEndUrl.php?code=muster&mode=0
+
+
+http://80.155.190.86/VRAgentMF/GetCodeEndUrl.php?code=none&mode=1
+http://80.155.190.86/VRAgentMF/GetCodeEndUrl.php?code=none&mode=2
